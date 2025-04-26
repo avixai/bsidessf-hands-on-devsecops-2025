@@ -15,7 +15,7 @@ This two hour workshop on Shifting Left guides BSides SF participants through in
 
 BSides SF attendees will learn about setting up basic CI/CD processes that incorporate security using both open source and commercial tool
 
-Here we provide an introduction to the workshop and the team running it. We will also cover some basics around how to ask for help and the tools we will be using across the two hour session.
+Here we provide an introduction to the workshop and the team running it. We will also cover some basics around how to ask for help and the tools we will be using across the two hour session
 
 ## Pre-setup Phase
 
